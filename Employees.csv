@@ -1,0 +1,9 @@
+EmployeeId,FirstName,LastName,Hired,Role,YearsOfExperience
+1,Steven,Johnson,20210101,Sales Development Rep,0
+2,Jean,Mills,20210101,Sales Development Rep,2
+3,Annie,Taylor,20210101,Sales Development Rep,0
+4,Kent,Cook,20210101,Sales Development Rep,1
+5,Karen,Smith,20210101,Sales Development Rep,0
+6,Kevin,Brown,20180528,Account Manager,3
+7,Janice,Timber,20200107,Account Manager,2
+8,Lilly,Pace,20191102,Account Manager,2
